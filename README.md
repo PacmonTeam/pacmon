@@ -1,30 +1,33 @@
-# PACMON
+# PACMON | BKKBUIDL2023 Hackathon
 
-## Resource
+---
 
-- PAC-interface: https://github.com/PacmonTeam/pac-interface
-- PAC-backend: https://github.com/PacmonTeam/pac-backend
-- PAC-plugins: _Open for contribution at_ https://github.com/PacmonTeam/pac-plugins
-- [Pitch Deck](https://github.com/PacmonTeam/pacmon/blob/master/Pitch_Deck.pdf)
+Making E2E testing and deployment more convenience and _**save engineer’s assistance effort**_
 
-## POC - 4 Nov 2023
+![PACMON Market position](market-position.png)
 
-### Production
+## Repositories
 
-```
+[PACMON Interface](https://github.com/PacmonTeam/pac-interface)<br />
+[PACMON Backend](https://github.com/PacmonTeam/pac-backend)<br />
+[PACMON Plugins](https://github.com/PacmonTeam/pac-plugins) _- Open for contribution_<br />
+
+## Links
+
 https://pacmon.suijin.xyz/
-```
 
-### Limitations
+[Full DEMO Video](https://drive.google.com/file/d/19RvXpWWV8m6ofa_PArl2ALnWmW5K2Axj/view?usp=sharing)
+
+[BKKBUIDL2023 Pitch PDF](https://github.com/PacmonTeam/pacmon/blob/master/PACMON-Pitch-bkkbuidl2023.pdf)
+
+## Release Logs
+
+### POC - 4 Nov 2023
+
+#### Limitations
 
 - No separation of projects/nodes for each users
 - Support manual e2e testing only
 - Deleting node doesn’t truly destroy the Ethereum node, though it will disappear from nodes list
 - Template configurations are limited inside the scope of examples we provided
 - _Only supports solidity v0.8.19_
-
-### Full demo video
-
-```
-TBD
-```
