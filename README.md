@@ -1,6 +1,13 @@
-# pacmon
+# PACMON
 
-## POC
+## Resource
+
+- PAC-interface: https://github.com/PacmonTeam/pac-interface
+- PAC-backend: https://github.com/PacmonTeam/pac-backend
+- PAC-plugins: _Open for contribution at_ https://github.com/PacmonTeam/pac-plugins
+- [Pitch Deck](https://github.com/PacmonTeam/pacmon/blob/master/Pitch_Deck.pdf)
+
+## POC - 4 Nov 2023
 
 ### Production
 
@@ -21,9 +28,3 @@ https://pacmon.suijin.xyz/
 ```
 TBD
 ```
-
-### Repositories
-
-- PAC-interface: https://github.com/PacmonTeam/pac-interface
-- PAC-backend: https://github.com/PacmonTeam/pac-backend
-- PAC-plugins: _Open for contribution at_ https://github.com/PacmonTeam/pac-plugins
