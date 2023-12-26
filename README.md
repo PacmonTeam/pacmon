@@ -20,12 +20,6 @@ https://pacmon.suijin.xyz/
 
 [Viction Startup Hackathon Pitch](https://docs.google.com/presentation/d/1OAkjmmyA3BZneuB8fFIR4mNX_hVTdN7YXvv11OUSF3s/edit?usp=sharing)
 
-## Links Achieved
-
-[Full DEMO Video - v1](https://drive.google.com/file/d/19RvXpWWV8m6ofa_PArl2ALnWmW5K2Axj/view?usp=sharing)
-
-[BKKBUIDL2023 Pitch PDF](https://github.com/PacmonTeam/pacmon/blob/master/PACMON-Pitch-bkkbuidl2023.pdf)
-
 ## Release Logs
 
 ### POC - 26 Dec 2023
