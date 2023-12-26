@@ -1,4 +1,4 @@
-# PACMON | BKKBUIDL2023 Hackathon
+# PACMON
 
 ---
 
@@ -16,11 +16,22 @@ Making E2E testing and deployment more convenience and _**save engineer’s assi
 
 https://pacmon.suijin.xyz/
 
-[Full DEMO Video](https://drive.google.com/file/d/19RvXpWWV8m6ofa_PArl2ALnWmW5K2Axj/view?usp=sharing)
+[Full DEMO Video - v2](https://drive.google.com/file/d/1JOMLpircSHlKsx2vYlgN2zIYOQrp8E1K/view?usp=sharing)
+
+[Viction Startup Hackathon Pitch](https://docs.google.com/presentation/d/1OAkjmmyA3BZneuB8fFIR4mNX_hVTdN7YXvv11OUSF3s/edit?usp=sharing)
+
+## Links Achieved
+
+[Full DEMO Video - v1](https://drive.google.com/file/d/19RvXpWWV8m6ofa_PArl2ALnWmW5K2Axj/view?usp=sharing)
 
 [BKKBUIDL2023 Pitch PDF](https://github.com/PacmonTeam/pacmon/blob/master/PACMON-Pitch-bkkbuidl2023.pdf)
 
 ## Release Logs
+
+### POC - 26 Dec 2023
+
+- Support Automated e2e testing on local, github action, or any CI/CD
+- Pacmon SDK (TypeScript) for Integration with Playwright or Cypress
 
 ### POC - 4 Nov 2023
 
